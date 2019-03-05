@@ -1,4 +1,8 @@
 <?php
+    /**
+     * Reference
+     * https://sabe.io/classes/php
+     */
     class Fruit {
 
         // Declare class properties
